@@ -2,3 +2,6 @@
 /x64
 BOJ.vcxproj
 BOJ.vcxproj.filters
+/cmake-build-debug
+/.idea
+CMakeLists.txt
